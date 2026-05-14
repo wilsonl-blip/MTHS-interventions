@@ -1,6 +1,6 @@
-# AMS Interventions Toolkit
+# MTHS Interventions Toolkit
 
-A comprehensive, web-based Multi-Tiered System of Supports (MTSS) intervention guide for Alderwood Middle School educators.
+A comprehensive, web-based Multi-Tiered System of Supports (MTSS) intervention guide for educators at Mountlkae Terrace High School.
 
 ## 🎯 Purpose
 
@@ -10,7 +10,7 @@ This toolkit provides evidence-based interventions organized by tier (1, 2, and 
 
 - **Three-Tiered Organization**: Easy navigation by intervention intensity (Universal, Targeted, Intensive)
 - **Detailed Implementation Guides**: Each intervention includes:
-  - Clear definitions and purpose
+  - Clear definitions and purpose 
   - Quality implementation indicators
   - Step-by-step instructions
   - Multiple implementation approaches
@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Credits
 
-Developed collaboratively by educators at Alderwood Middle School:
+Developed collaboratively by educators at MTHS:
 - English/Language Arts Department
 - Mathematics Department
 - Science Department
@@ -215,11 +215,9 @@ Developed collaboratively by educators at Alderwood Middle School:
 Special thanks to all AMS staff who contributed their expertise and classroom experience to this toolkit.
 
 ## 📧 Contact
+David Friedle
 
-Questions or suggestions? Contact:
-- Room 1610 (Mr. B - Social Studies)
-- Your department chair
-- MTSS Coordinator
+
 
 ## 🔄 Version History
 
